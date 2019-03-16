@@ -3745,7 +3745,7 @@ Version 2017-01-21"
      ;; ("=" . xah-forward-equal-sign)
      ("[" . xah-backward-punct )
      ("]" . xah-forward-punct)
-     ("`" . other-frame)
+     ;; ("`" . other-frame)
 
      ;; ("#" . xah-backward-quote)
      ;; ("$" . xah-forward-punct)
